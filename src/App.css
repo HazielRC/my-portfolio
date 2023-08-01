@@ -3,7 +3,7 @@
 }
 
 .secondary {
-  color: #545454;
+  color: #ffffff;
 }
 
 .text-red {
@@ -17,7 +17,7 @@
 }
 
 body {
-  overflow: hidden;
+  overflow: auto;
 }
 
 body::-webkit-scrollbar {
