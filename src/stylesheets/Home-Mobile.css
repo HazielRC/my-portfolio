@@ -1,0 +1,14 @@
+@media screen and (max-width: 500px) {
+  .container {
+    min-height: 100vh;
+  }
+  .container .brand {
+    font-size: 40px;
+  }
+  .description {
+    max-width: 292px;
+    text-align: center;
+    margin-top: 30px;
+  }
+}
+

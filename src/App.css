@@ -1,0 +1,31 @@
+.primary {
+  color: #FF5757;
+}
+
+.secondary {
+  color: #545454;
+}
+
+.text-red {
+  color: #ff0000;
+}
+.text-orange {
+  color: #ff5500;
+}
+.text-yellow {
+  color: #ffbf00;
+}
+
+body {
+  overflow: hidden;
+}
+
+body::-webkit-scrollbar {
+  width: 8px;
+  
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #ff5757;
+  border-radius: 20px;
+}

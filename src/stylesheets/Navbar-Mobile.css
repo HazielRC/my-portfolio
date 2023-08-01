@@ -1,0 +1,23 @@
+@media screen and (max-width: 500px) {
+  .navbar {
+    height: 50px;
+  }
+
+  .brand-container {
+    margin-left: 10px;
+  }
+  .brand {
+    font-size: 20px;
+  }
+
+  .links-list {
+    margin-right: 10px;
+  }
+
+  .nav-item {
+    margin: 5px;
+  }
+  .nav-link {
+    font-size: 15px;
+  }
+}
